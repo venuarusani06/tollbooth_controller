@@ -30,9 +30,7 @@ Example states for the controller:
 1. **Idle** – Waiting for a vehicle.  
 2. **Toll Verification** – Check if payment is successful.  
 3. **Gate Open** – Allow vehicle passage.  
-4. **Gate Close** – Close after vehicle crosses.  
-
-(Add your FSM diagram here as an image)  
+4. **Gate Close** – Close after vehicle crosses.    
 
 ---
 
