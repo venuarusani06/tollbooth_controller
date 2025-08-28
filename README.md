@@ -18,10 +18,6 @@ It ensures smooth vehicle passage after toll collection and prevents unauthorize
 - Can be implemented on **FPGA / Microcontroller / Digital Circuit**.  
 - Extendable for **RFID, IoT, or payment systems**.  
 
----
-
-## 🔹 Block Diagram  
-(Add your block diagram here)  
 
 ---
 
